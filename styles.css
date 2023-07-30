@@ -9,6 +9,7 @@
   border-radius: 5px;
   cursor: pointer;
   text-decoration: none; /* Removes underline from the link */
+  font-size: 18px;
 }
 .scroll-buttons {
   position: fixed;
