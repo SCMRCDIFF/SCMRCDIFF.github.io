@@ -2,7 +2,7 @@
 
 /* Target the elements with the class "button" and set their appearance */
 .button {
-  background-color: #FFFFFF; /* Replace #ff5733 with your desired background color */
+  background-color: white; /* Replace #ff5733 with your desired background color */
   color: #FF0000;
   padding: 10px 20px;
   border: none;
