@@ -64,12 +64,18 @@ p {
 }
 
 .button {
- background-color: white; /* Replace #ff5733 with your desired background color */
-  color: #FF0000;
+  background-color: #ff5733; /* Replace with your desired background color */
+  color: #ffffff; /* Replace with your desired text color */
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
   text-decoration: none; /* Removes underline from the link */
-  font-size: 30px;
+}
+
+.scroll-buttons {
+  position: fixed;
+  top: 20px; /* Adjust this value to set the vertical position from the top */
+  left: 50%;
+  transform: translateX(-50%);
 }
