@@ -65,16 +65,11 @@ p {
 
 
 
-.scroll-buttons {
+.scroll-button {
   background-color: #ff5733; /* Replace with your desired background color */
   color: #ffffff; /* Replace with your desired text color */
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  text-decoration: none; /* Removes underline from the link */
-  position: fixed;
-  top: 20px; /* Adjust this value to set the vertical position from the top */
-  left: 50%;
-  transform: translateX(-50%);
+  text-decoration: none;
+  margin: 0 10px;
+  padding: 170px 10px;
+  font-size: 35px;
 }
