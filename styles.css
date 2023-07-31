@@ -17,3 +17,7 @@
   left: 50%;
   transform: translateX(-50%);
 }
+
+p:last-of-type {
+  font-size: 18px; /* Replace with your desired font size */
+}
