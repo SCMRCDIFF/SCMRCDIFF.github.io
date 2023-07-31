@@ -1,7 +1,7 @@
 /* styles.css */
 body {
   margin: 0;
-  padding: 50;
+  padding: 0;
 }
 .header {
   position: fixed;
@@ -50,7 +50,7 @@ display: flex;
   text-decoration: none;
 }
 .content {
-  padding-top: 80px; /* Adjust the value to change the distance between content and the navbar */
+  padding-top: -10px; /* Adjust the value to change the distance between content and the navbar */
   /* Add additional styles for your content here */
 }
 
