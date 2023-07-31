@@ -66,6 +66,10 @@ p {
 
 
 .content-button {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   background-color: white;
   color: #333; /* Set the text color (black in this example) */
   text-decoration: none;
