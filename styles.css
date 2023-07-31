@@ -74,7 +74,7 @@ p {
 .content-button {
   background-color: white;
   color: #FF0000; /* Set the text color (black in this example) */
-  padding: 10px 20px;
+  padding: 0px 0px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
