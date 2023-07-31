@@ -24,7 +24,7 @@ body {
 }
 
 .header nav {
-
+display: flex;
 
 }
 
@@ -46,6 +46,9 @@ body {
   font-size: 25px;
 }
 
+.header-link {
+  text-decoration: none;
+}
 
 p {
   font-size: 50px; /* Replace with your desired font size */
