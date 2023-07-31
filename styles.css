@@ -63,7 +63,9 @@ p {
   font-size: 25px; /* Replace with your desired font size */
 }
 
-.button {
+
+
+.scroll-buttons {
   background-color: #ff5733; /* Replace with your desired background color */
   color: #ffffff; /* Replace with your desired text color */
   padding: 10px 20px;
@@ -71,9 +73,6 @@ p {
   border-radius: 5px;
   cursor: pointer;
   text-decoration: none; /* Removes underline from the link */
-}
-
-.scroll-buttons {
   position: fixed;
   top: 20px; /* Adjust this value to set the vertical position from the top */
   left: 50%;
