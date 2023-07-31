@@ -49,6 +49,10 @@ display: flex;
 .header-link {
   text-decoration: none;
 }
+.content {
+  padding-top: 80px; /* Adjust the value to change the distance between content and the navbar */
+  /* Add additional styles for your content here */
+}
 
 p {
   font-size: 50px; /* Replace with your desired font size */
