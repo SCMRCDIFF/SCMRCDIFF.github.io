@@ -63,18 +63,23 @@ p {
   font-size: 25px; /* Replace with your desired font size */
 }
 
-
-
-.content-button {
+.button-container {
   position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: white;
-  color: #333; /* Set the text color (black in this example) */
-  text-decoration: none;
-  padding: 10px 20px;
-  font-size: 16px;
-  border: 2px solid #333; /* Add a black border around the button */
-  border-radius: 5px; 
 }
+
+/* Style the content button */
+.content-button {
+  background-color: white;
+  color: #FF0000; /* Set the text color (black in this example) */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none; /* Removes underline from the link */
+  font-size: 30px; 
+}
+
+
