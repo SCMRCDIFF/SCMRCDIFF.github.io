@@ -14,13 +14,9 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  transition: top 0.3s;
+
 }
 
-/* When scrolling, move the header down slightly to reveal it */
-.scrolling .header {
-  top: -50px; /* Adjust the value to control the header's reveal distance */
-}
 
 .header h1 {
   margin: 0;
@@ -49,12 +45,7 @@ body {
   text-decoration: none; /* Removes underline from the link */
   font-size: 25px;
 }
-.scroll-buttons {
-  position: fixed;
-  top: 20px; /* Adjust this value to set the vertical position from the top */
-  left: 50%;
-  transform: translateX(-50%);
-}
+
 
 p {
   font-size: 50px; /* Replace with your desired font size */
