@@ -65,7 +65,7 @@ p {
 
 .button-container {
   position: fixed;
-  top: 100px;
+  top: 170px;
   left: 50%;
   transform: translateX(-50%);
 }
