@@ -66,8 +66,7 @@ p {
 
 
 .content-button {
-  background-color: white; /* Replace #ff5733 with your desired background color */
-  color: #FF0000;
+  background-color: white; 
   padding: 150px 20px;
   border: none;
   border-radius: 5px;
