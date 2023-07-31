@@ -65,21 +65,20 @@ p {
 
 .button-container {
   position: fixed;
-  top: 10%;
+  top: 20px;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
 }
 
 /* Style the content button */
 .content-button {
-  background-color: white;
-  color: red; /* Set the text color (black in this example) */
-  padding: 0px 0px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  text-decoration: none; /* Removes underline from the link */
-  font-size: 30px; 
+  background-color: red; /* Set the background color to red */
+  color: #fff; /* Set the text color (white in this example) */
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 32px;
+  border: none; /* Remove the border from the button */
+  border-radius: 5px; 
 }
 
 
