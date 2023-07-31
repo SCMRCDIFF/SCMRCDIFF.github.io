@@ -62,3 +62,14 @@ body {
 p {
   font-size: 25px; /* Replace with your desired font size */
 }
+
+.button {
+ background-color: white; /* Replace #ff5733 with your desired background color */
+  color: #FF0000;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none; /* Removes underline from the link */
+  font-size: 30px;
+}
