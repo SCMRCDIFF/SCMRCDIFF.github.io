@@ -66,11 +66,11 @@ p {
 
 
 .content-button {
-  background-color: white; 
-  padding: 150px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  text-decoration: none; /* Removes underline from the link */
-  font-size: 30px;
+  background-color: white;
+  color: #333; /* Set the text color (black in this example) */
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: 2px solid #333; /* Add a black border around the button */
+  border-radius: 5px; 
 }
