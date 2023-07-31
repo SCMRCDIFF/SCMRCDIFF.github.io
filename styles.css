@@ -65,15 +65,15 @@ p {
 
 .button-container {
   position: fixed;
-  top: 20px;
+  top: 40px;
   left: 50%;
   transform: translateX(-50%);
 }
 
 /* Style the content button */
 .content-button {
-  background-color: red; /* Set the background color to red */
-  color: #fff; /* Set the text color (white in this example) */
+  background-color: #fff; /* Set the background color to red */
+  color: red; /* Set the text color (white in this example) */
   text-decoration: none;
   padding: 10px 20px;
   font-size: 32px;
