@@ -28,15 +28,7 @@ header {
 }
 
 .header nav {
-  display: flex;
-  background-color: white; /* Replace #ff5733 with your desired background color */
-  color: #FF0000;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  text-decoration: none; /* Removes underline from the link */
-  font-size: 25px;
+
 
 }
 
@@ -47,9 +39,7 @@ header {
   padding: 5px 10px;
 }
 
-
-/* Target the elements with the class "button" and set their appearance */
-.button {
+.header.a.button {
   background-color: white; /* Replace #ff5733 with your desired background color */
   color: #FF0000;
   padding: 10px 20px;
