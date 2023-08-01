@@ -304,6 +304,7 @@ class RF extends Gradient {
   update()
   {
      let tmpx = 0;
+    this.posX=this.start;
       this.nPoint = this.duration / this.dT;
       for (let pt = 0; pt < this.nPoint; pt++) {
       tmpx = pt * this.dT;
