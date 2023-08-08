@@ -81,4 +81,15 @@ p {
   border-radius: 5px; 
 }
 
+thead,
+tbody {
+  display: block;
+}
+
+tbody {
+  max-height: 400px;
+  overflow: auto;
+   align-items: center;
+  justify-content: center;
+}
 
