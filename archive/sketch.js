@@ -19,7 +19,7 @@ function preload()
 }
 function setup() 
 {
-  createCanvas(1500, 1500);
+  createCanvas(1500, 2500);
    for (let r = 0; r < table.getRowCount(); r++)
      {
        TT[r]=[];
