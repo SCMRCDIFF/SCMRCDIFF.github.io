@@ -62,7 +62,7 @@ function setup()
 function draw() {
   
   background(255);
-  axis (100,700+Ydrift,1200,400 ,TTsub,(radio.value()-1)*2,ytick,yticklabel);
+  axis (100,700+50,1200,400 ,TTsub,(radio.value()-1)*2,ytick,yticklabel);
 }
 
 function mySearchEvent()
