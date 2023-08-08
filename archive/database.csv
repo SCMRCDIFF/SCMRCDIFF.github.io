@@ -1,0 +1,92 @@
+MD/ADC/D,Std,FA,Std,D*,Std,f,Std,Keywords,Citation,Title
+0.82,0.2,0.26,0.03,,,,,AMI ; Syst. ; Infarct ; DTI ; 1.5T ;  ; STEAM ; ,Wu et al. Circulation 2006 (*),Diffusion Tensor Magnetic Resonance Imaging Mapping the Fibe�
+0.74,0.17,0.27,0.04,,,,,AMI ; Syst. ; Remote ; DTI ; 1.5T ;  ; STEAM ; ,Wu et al. Circulation 2006 (*),Diffusion Tensor Magnetic Resonance Imaging Mapping the Fibe�
+1.6,0.19,,,,,,,Healthy ; Syst. ;  ; ADC ; 3T ;  ; M1 ; ,Gamper et al. MRM 2007 (*),Diffusion Imaging of the In Vivo Heart Using Spin Echoes�Con�
+,,,,,,,,Chronic MI ;  ;  ; ADC ; 1.5T ;  ; M0 ; ,Deux et al. Eur Radiol 2011,Diffusion-weighted echo planar imaging in patients with rece�
+,,,,,,,,Healthy ;  ;  ; ADC ; 1.5T ;  ; M0 ; ,Rapacchi et al. Invest. Radiol. 2011,Low b-Value Diffusion-Weighted Cardiac Magnetic Resonance Im�
+,,,,,,,,Acute MI ;  ;  ; ADC ; 1.5T ;  ; M0 ; ,Rapacchi et al. Invest. Radiol. 2011,Low b-Value Diffusion-Weighted Cardiac Magnetic Resonance Im�
+0.75,0.15,0.613,0.044,,,,,HCM ; Syst. ;  ; DTI ; 3T ;  ; STEAM ; ,McGill et al. JCMR 2012,Reproducibility of in-vivo diffusion tensor cardiovascular m�
+2.43,0.98,,,76.3,,0.15,0.046,Healthy ; Diast ;  ; IVIM ; 1.5T ;  ; TRSE ; ,Delattre et al. Invest Radiology 2012,Reproducibility of in-vivo diffusion tensor cardiovascular m�
+0.8,0.2,0.6,0.04,,,,,Healthy ; Syst. ;  ; DTI ; 3T ;  ; STEAM ; ,Vallespin et al. MRM 2013,n Vivo Diffusion Tensor MRI of the Human Heart: Reproducibil�
+6.6,2.1,,,,,,,AMI ; Diast ;  Infarct Edema ; ADC ; 1.5T ;  ; M0 ; ,Laissy et al. JRMI 2013,"Cardiac Diffusion-weighted MR Imaging in
+Recent, Subacute, a�"
+5.9,2.1,,,,,,,AMI ; Diast ; Infarct No Edema ; ADC ; 1.5T ;  ; M0 ; ,Laissy et al. JRMI 2013,"Cardiac Diffusion-weighted MR Imaging in
+Recent, Subacute, a�"
+9.2,1.9,,,,,,,AMI ; Diast ; Remote Edema ; ADC ; 1.5T ;  ; M0 ; ,Laissy et al. JRMI 2013,"Cardiac Diffusion-weighted MR Imaging in
+Recent, Subacute, a�"
+8.7,1.7,,,,,,,AMI ; Diast ; Remote No Edema ; ADC ; 1.5T ;  ; M0 ; ,Laissy et al. JRMI 2013,"Cardiac diffusion-weighted MR imaging in recent, subacute, a�"
+,,,,,,,,HCM ;  ;  ; DTI ; 3T ;  ; STEAM ; ,Ferreira et al. JCMR 2014,In vivo cardiovascular magnetic resonance diffusion tensor i�
+,,,,,,,,Healthy ;  ;  ; DTI ; 3T ;  ; STEAM ; ,Ferreira et al. JCMR 2014,In vivo cardiovascular magnetic resonance diffusion tensor i�
+1.5,0.4,,,,,,,Healthy ; Diast. ;  ; ADC ; 3T ;  ; bSSFP ; ,Nguyen et al. MRM 2014,n Vivo Three-Dimensional High Resolution Cardiac Diffusion-W�
+1.4,0.3,,,,,,,Chronic MI ; Diast. ; Remote ; ADC ; 3T ;  ; bSSFP ; ,Nguyen et al. JCMR 2014,In vivo contrast free chronic myocardial infarction characte�
+2.4,0.2,,,,,,,Chronic MI ; Diast. ; Infarct ; ADC ; 3T ;  ; bSSFP ; ,Nguyen et al. JCMR 2014,In vivo contrast free chronic myocardial infarction characte�
+1.2,0.09,0.41,0.04,,,,,Healthy ; Syst. ;  ; DTI ; 3T ;  ; STEAM ; ,Tunnicliffe et al. JCMR 2014,Intercentre reproducibility of cardiac apparent diffusion co�
+1.1,0.006,0.54,0.03,,,,,Healthy ; Diast. ;  ; DTI ; 3T ;  ; STEAM ; ,Tunnicliffe et al. JCMR 2014,Intercentre reproducibility of cardiac apparent diffusion co�
+1.01,0.18,0.6,0.03,,,,,Healthy ; Syst. ;  ; DTI ; 1.5T ;  ; STEAM ; ,Stoeck et al. PlosOne 2014,Dual-Phase Cardiac Diffusion Tensor Imaging with Strain Corr�
+0.87,0.11,0.61,0.04,,,,,Healthy ; Diast ;  ; DTI ; 1.5T ;  ; STEAM ; ,Stoeck et al. PlosOne 2014,Dual-Phase Cardiac Diffusion Tensor Imaging with Strain Corr�
+0.93,0.14,0.47,0.05,,,,,Healthy ; Syst. ;  ; DTI ; 3T ;  ; STEAM ; ,McGill et al. JCMR 2015,Relationship between cardiac diffusion tensor imaging parame�
+1.11,0.13,0.56,0.04,,,,,Healthy ; Diast. ;  ; DTI ; 3T ;  ; STEAM ; ,McGill et al. JCMR 2015,Relationship between cardiac diffusion tensor imaging parame�
+2.4,0.2,,,,,,,HCM ;  ; Fibrotic ; ADC ; 1.5T ;  ; bSSFP ; ,Nguyen et al. JCMR 2015,Contrast-free detection of myocardial fibrosis in hypertroph�
+1.5,0.2,,,,,,,HCM ;  ; Non Fibrotic ; ADC ; 1.5T ;  ; bSSFP ; ,Nguyen et al. JCMR 2015,Contrast-free detection of myocardial fibrosis in hypertroph�
+0.87,0.06,0.42,0.04,,,,,Healthy ;  ; 150-750 ; DTI ; 3T ;  ; STEAM ; ,Scott et al. MRM 2015,Optimal Diffusion Weighting for In Vivo Cardiac Diffusion Te�
+0.74,0.05,0.42,0.05,,,,,Healthy ; Diast. ;  ; DTI ; 1.5T ;  ; M0 ; ,Wei et al. IEEE TMI 2015,Free-Breathing Diffusion Tensor Imaging and Tractography of �
+,,,,,,,,Healthy  ;  ;  ;  ; 1.5T ;  ; M1M2 ; ,Stoeck et al. JCMR 2016,Second order motion compensated spin-echo diffusion tensor i�
+1.43,0.06,0.38,0.02,,,,,Healthy ; Syst. ;  ; DTI ; 1.5T ;  ; M1M2 ; ,Von Deuster et al. MRM 2016,Spin Echo Versus Stimulated Echo Diffusion Tensor Imaging of�
+1.05,0.08,0.59,0.03,,,,,Healthy ; Syst. ;  ; DTI ; 1.5T ;  ; STEAM ; ,Von Deuster et al. MRM 2016,Spin Echo Versus Stimulated Echo Diffusion Tensor Imaging of�
+1.41,0.09,,,43.4,9.2,0.12,0.013,Healthy ; Diast. ; IVIM ; IVIM ; 1.5T ;  ; M0 ; ,Moulin et al. MRM 2016,In Vivo Free-Breathing DTI and IVIM of the Whole Human Heart�
+1.72,0.09,0.36,0.02,,,,,Healthy ; Diast. ; DTI ; DTI ; 1.5T ;  ; M0 ; ,Moulin et al. MRM 2016,In Vivo Free-Breathing DTI and IVIM of the Whole Human Heart�
+1.07,0.06,0.41,0.03,,,,,Healthy ;  ;  ; DTI ; 3T ;  ; STEAM ; ,Scott et al. NMR in Biomedicin 2016,The effects of noise in cardiac diffusion tensor imaging and�
+3.37,1.11,,,131.83,27.21,0.31,0.11,Healthy ;  ; Baseline ; IVIM ; 3T ;  ; M0 ; ,Mou et al. JMRI 2017,Evaluation of Myocardial Microcirculation Using Intravoxel I�
+3.1,0.92,,,95.98,28.46,0.3,0.12,HCM ;  ; Baseline ; IVIM ; 3T ;  ; M0 ; ,Mou et al. JMRI 2017,Evaluation of Myocardial Microcirculation Using Intravoxel I�
+3.36,1.02,,,131.72,28.26,0.32,0.1,Healthy ;  ; 1 Month ; IVIM ; 3T ;  ; M0 ; ,Mou et al. JMRI 2017,Evaluation of Myocardial Microcirculation Using Intravoxel I�
+3.03,0.89,,,93.64,29.22,0.32,0.11,HCM ;  ; 1 Month ; IVIM ; 3T ;  ; M0 ; ,Mou et al. JMRI 2017,Evaluation of Myocardial Microcirculation Using Intravoxel I�
+1.9,0.6,,,,,,,Healthy ;  ;  ; ADC ; 3T ;  ; M1M2 ; ,Aliotta et al. MRM 2017,Convex Optimized Diffusion Encoding (CODE) Gradient Waveform�
+,,,,,,,,Healthy ;  ;  ; DTI ; 3T ;  ; STEAM ; ,Vallespin et al. JACC 2017,Assessment of Myocardial Microstructural Dynamics by In Vivo�
+,,,,,,,,DCM ;  ;  ; DTI ; 3T ;  ; STEAM ; ,Vallespin et al. JACC 2017,Assessment of Myocardial Microstructural Dynamics by In Vivo�
+,,,,,,,,HCM ;  ;  ; DTI ; 3T ;  ; STEAM ; ,Vallespin et al. JACC 2017,Assessment of Myocardial Microstructural Dynamics by In Vivo�
+0.85,0.08,0.41,0.02,,,,,Healthy ;  ;  ; DTI ; 3T ;  ; STEAM ; ,Mekkaoui et al. Radiology 2017,Diffusion Tractography of the Entire Left Ventricle by Using�
+0.88,0.09,0.42,0.05,,,,,Healthy ;  ; SMS Rate 2 ; DTI ; 3T ;  ; STEAM ; ,Mekkaoui et al. Radiology 2017,Diffusion Tractography of the Entire Left Ventricle by Using�
+1.53,0.21,,,109.33,15.73,0.153,0.03,Healthy ; Diast. ;  ; IVIM ; 3T ;  ; M0 ; ,An et al. JMRI 2018 (*),Diagnostic Performance of Intravoxel Incoherent Motion Diffu�
+1.39,0.12,,,62.29,9.03,0.121,0.02,AMI ; Diast. ; Infarct - 30 Days ; IVIM ; 3T ;  ; M0 ; ,An et al. JMRI 2018 (*),Diagnostic Performance of Intravoxel Incoherent Motion Diffu�
+1.55,0.19,,,107.46,10.87,0.169,0.02,AMI ; Diast. ; Remote - 30 Days ; IVIM ; 3T ;  ; M0 ; ,An et al. JMRI 2018 (*),Diagnostic Performance of Intravoxel Incoherent Motion Diffu�
+1.58,0.09,0.37,0.03,,,,,Healthy ; Syst. ;  ; DTI ; 3T ;  ; M1M2 ; ,Aliotta et al. MRM 2018,Quantifying precision in cardiac diffusion tensor imaging wi�
+1.91,0.34,0.32,0.06,,,,,Healthy ; Diast. ;  ; DTI ; 3T ;  ; M1M2 ; ,Aliotta et al. MRM 2018,Quantifying precision in cardiac diffusion tensor imaging wi�
+1.38,0.18,,,,,,,Healthy ; Syst. ;  ; ADC ; 3T ;  ; M1M2 ; ,Aliotta et al. MRM 2018,Simultaneous Measurement of T2 and Apparent Diffusion Coeffi�
+0.85,0.26,0.54,0.03,,,,,Chronic MI ;  ; Remote ; DTI ; 1.5T ;  ; STEAM ; ,Mekkaoui et al. JAHA 2018,Myocardial Scar Delineation Using Diffusion Tensor MagneticR�
+1.07,0.42,0.45,0.07,,,,,Chronic MI ;  ; Infarct ; DTI ; 1.5T ;  ; STEAM ; ,Mekkaoui et al. JAHA 2018,Myocardial Scar Delineation Using Diffusion Tensor MagneticR�
+1,0.09,0.41,0.04,,,,,Healthy ; Syst. ; Spiral ; DTI ; 3T ;  ; STEAM ; ,Gorodezky et al. MRM 2018,Diffusion Tensor Cardiovascular Magnetic Resonance With a Sp�
+1.1,0.09,0.55,0.03,,,,,Healthy ; Diast. ; Spiral ; DTI ; 3T ;  ; STEAM ; ,Gorodezky et al. MRM 2018,Diffusion Tensor Cardiovascular Magnetic Resonance With a Sp�
+0.99,0.06,0.49,0.03,,,,,Healthy ; Syst. ; EPI ; DTi ; 3T ;  ; STEAM ; ,Gorodezky et al. MRM 2018,Diffusion Tensor Cardiovascular Magnetic Resonance With a Sp�
+1,0.12,0.66,0.05,,,,,Healthy ; Diast. ; EPI ; DTI ; 3T ;  ; STEAM ; ,Gorodezky et al. MRM 2018,Diffusion Tensor Cardiovascular Magnetic Resonance With a Sp�
+2.83,0.8,,,57.7,8.07,0.259,0.074,Healthy ; Diast. ;  ; IVIM ; 3T ;  ; M0 ; ,Xiang et al. Medicine 2018,"STROBE�A preliminary investigation
+of IVIM-DWI in cardiac im�"
+1.02,0.14,0.47,0.03,,,,,Healthy ; Syst. ;  ; DTI ; 3T ;  ; STEAM ; ,Scott et al. JCMR 2018,An in-vivo comparison of stimulated-echo and motion compensa�
+1.13,0.08,0.61,0.04,,,,,Healthy ; Diast. ;  ; DTI ; 3T ;  ; STEAM ; ,Scott et al. JCMR 2018,An in-vivo comparison of stimulated-echo and motion compensa�
+1.46,0.43,0.4,0.09,,,,,Healthy ; Syst. ;  ; DTI ; 3T ;  ; M1M2 ; ,Scott et al. JCMR 2018,An in-vivo comparison of stimulated-echo and motion compensa�
+1.78,0.34,0.41,0.07,,,,,Healthy ; Diast. ;  ; DTI ; 3T ;  ; M1M2 ; ,Scott et al. JCMR 2018,An in-vivo comparison of stimulated-echo and motion compensa�
+1.41,0.07,0.25,0.04,,,,,Healthy ; Syst. ;  ; DTi ; 1.5T ;  ; M1M2 ; ,Gotschy et al. JCMR 2019,Characterizing cardiac involvement in amyloidosis using card�
+1.77,0.17,0.35,0.03,,,,,Amyloidosis ; Syst. ;  ; DTI ; 1.5T ;  ; M1M2 ; ,Gotschy et al. JCMR 2019,Characterizing cardiac involvement in amyloidosis using card�
+,,,,,,,,Healthy ;  ;  ; DTI ; 1.5T ;  ; M1M2 ; ,Stoeck et al. MRM 2019,Motion and eddy current�induced signal dephasing in in vivo �
+,,,,,,,,Healthy ;  ;  ; DTI ; 1.5T ;  ; STEAM ; ,Stoeck et al. MRM 2019,Motion and eddy current�induced signal dephasing in in vivo �
+1.83,0.27,,,138.02,13.08,0.26,0.04,Healthy ;  ; Septum Low-b ; IVIM ; 3T ;  ; M0 ; ,Zhang et al. MRM 2020,Investigation of intravoxel incoherent motion tensor imaging�
+1.89,0.14,,,34.9,6.6,10.8,1.29,HCM ;  ; LGE+ ; IVIM ; 3T ;  ; M0 ; ,Wu R. et al. European Journal of Radiology 2020,The feasibility and diagnostic value of intravoxel incoheren�
+1.64,0.12,,,55.2,11.4,12.5,1.26,HCM ;  ; LGE- ; IVIM ; 3T ;  ; M0 ; ,Wu R. et al. European Journal of Radiology 2020,The feasibility and diagnostic value of intravoxel incoheren�
+1.15,0.075,0.48,0.056,,,,,HCM ; Syst. ;  ; DTI ; 3T ;  ; STEAM ; ,Khalique et al. MAGMA 2020,Diffusion tensor cardiovascular magnetic resonance in�hypert�
+1.27,0.12,0.56,0.1,,,,,HCM ; Diast. ;  ; DTI ; 3T ;  ; STEAM ; ,Khalique et al. MAGMA 2020,Diffusion tensor cardiovascular magnetic resonance in�hypert�
+1.74,0.25,0.34,0.08,,,,,HCM ; Syst. ;  ; DTI ; 3T ;  ; M1M2 ; ,Khalique et al. MAGMA 2020,Diffusion tensor cardiovascular magnetic resonance in�hypert�
+1.57,0.27,0.4,0.08,,,,,HCM ; Diast. ;  ; DTI ; 3T ;  ; M1M2 ; ,Khalique et al. MAGMA 2020,Diffusion tensor cardiovascular magnetic resonance in�hypert�
+1.53,0.08,0.33,0.01,,,,,Healthy ; Syst. ;  ; DTI ; 3T ;  ; M1M2 ; ,Moulin et al. PlosOne 2020,Probing cardiomyocyte mobility with multiphase cardiac diffu�
+1.64,0.03,0.35,0.01,,,,,Healthy ; Diast. ;  ; DTI ; 3T ;  ; M1M2 ; ,Moulin et al. PlosOne 2020,Probing cardiomyocyte mobility with multiphase cardiac diffu�
+1.62,0.03,,,,,,,AMI ;  ; remote ; ADC ; 1.5T ;  ; M1M2 ; ,Moulin et al. Radiology 2020,MRI of Reperfused Acute Myocardial Infarction Edema: ADC Qua�
+2.32,0.05,,,,,,,AMI ;  ; Infarct ; ADC ; 1.5T ;  ; M1M2 ; ,Moulin et al. Radiology 2020,MRI of Reperfused Acute Myocardial Infarction Edema: ADC Qua�
+1.47,0.06,0.35,0.03,,,,,Healthy ;  ;  ; DTI ; 1.5T ;  ; M1M2 ; ,Gotschy et al. JACC Imaging 2021,CMR Diffusion Tensor Imaging Provides Novel Imaging Markers �
+1.56,0.07,0.29,0.03,,,,,Aortic Stenosis ;  ;  ; DTI ; 1.5T ;  ; M1M2 ; ,Gotschy et al. JACC Imaging 2021,CMR Diffusion Tensor Imaging Provides Novel Imaging Markers �
+1.52,0.07,0.36,0.02,,,,,Healthy ;  ;  ; DTI ; 3T ;  ; M1M2 ; ,Moulin et al. MRM 2021,Myofiber strain in healthy humans using DENSE and cDTI�
+1.46,0.07,0.29,0.04,,,,,HCM ;  ; LGE- ; DTI ; 3T ;  ; M1M2 ; ,Das et al. European Society of Cardiology 2022,Phenotyping hypertrophic cardiomyopathy using cardiac diffus�
+1.61,0.09,0.35,0.02,,,,,HCM ;  ; LGE+ ; DTI ; 3T ;  ; M1M2 ; ,Das et al. European Society of Cardiology 2022,Phenotyping hypertrophic cardiomyopathy using cardiac diffus�
+4.43,1.52,,,52.29,14.21,12.4,2,HCM ;  ;  ; IVIM ; 3T ;  ; M0 ; ,Xiang et al. JMRI 2022,Microvascular Dysfunction Associates With Outcomes in Hypert�
+1.48,0.12,0.36,0.02,,,,,AMI ; Syst.  ; Remote ; DTI ; 3T ;  ; M1M2 ; ,Das et al. Radiology 2022,Acute Microstructural Changes after ST-Segment Elevation Myo�
+1.69,0.14,0.25,0.03,,,,,AMI ; Syst.  ; Infarct ; DTI ; 3T ;  ; M1M2 ; ,Das et al. Radiology 2022,Acute Microstructural Changes after ST-Segment Elevation Myo�
+1.45,0.11,0.35,0.03,,,,,Chronic MI ; Syst. ; Remote ; DTI ; 3T ;  ; M1M2 ; ,Das et al. Radiology 2022,Acute Microstructural Changes after ST-Segment Elevation Myo�
+1.83,0.21,0.22,0.03,,,,,Chronic MI ; Syst. ; Infarc ; DTI ; 3T ;  ; M1M2 ; ,Das et al. Radiology 2022,Acute Microstructural Changes after ST-Segment Elevation Myo�
+2.795,0.415042167,,,154,12.6964562,35.5,5.310367219,Chemiotherapy ; Diast. ; All times ; IVIM ; 3T ;  ; M0 ; ,Li et al. Front. Cardiovasc. Med. 2022 (*),Case report: Evaluation of myocardial microcirculation in pa�

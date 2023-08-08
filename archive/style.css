@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+thead,
+tbody {
+  display: block;
+}
+
+tbody {
+  max-height: 400px;
+  overflow: auto;
+   align-items: center;
+  justify-content: center;
+}
+.SText
+{
+   display: block;
+  white-space: nowrap;
+  overflow: auto;
+   align-items: center;
+  justify-content: center;
+}
+ 
+}
