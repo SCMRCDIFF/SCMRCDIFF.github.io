@@ -12,7 +12,7 @@ let tbl=[];
 let radio=[];
 let Ytext=[];
 let Ymax=[];
-let Ydrift=250;
+let Ydrift=175;
 function preload() 
 {
   table = loadTable('database.csv', 'csv');
