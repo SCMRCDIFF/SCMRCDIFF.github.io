@@ -11,7 +11,8 @@ let PltMax=0;
 let tbl=[];
 let radio=[];
 let Ytext=[];
-let Ymax=[]
+let Ymax=[];
+let Ydrift=200;
 function preload() 
 {
   table = loadTable('database.csv', 'csv');
@@ -30,17 +31,17 @@ function setup()
   TTsub=TT;
     
     searchBar = createInput();
-    searchBar.position(400, 800);
+    searchBar.position(400, 800+Ydrift);
     searchBar.input(mySearchEvent);
     searchBar.size(650);
     searchText = createElement('h2', 'Search Keywords (each Keyword needs to be separated by ";" )');
-    searchText.position(400, 750);
+    searchText.position(400, 750+Ydrift);
     searchText.size(660);
     
     Ytext = createElement('h2', 'Ylim' );
-    Ytext.position(100, 750);
+    Ytext.position(100, 750+Ydrift);
     Ymax = createInput("5");
-    Ymax.position(100,800);
+    Ymax.position(100,800+Ydrift);
     //Ymax.input(myYlim);
     Ymax.size(50);
   
@@ -51,7 +52,7 @@ function setup()
     radio.option('4', 'f');
     radio.style('width', '300px');
     radio.selected('1');
-    radio.position(100,850);
+    radio.position(100,850+Ydrift);
     textAlign(CENTER);
    
    
@@ -199,7 +200,7 @@ function tableCreate(data)
   }
   tbl.child(tbdy);
   tbl.size(1200);
-  tbl.position(100,900);
+  tbl.position(100,900+Ydrift);
    tbl.style.width = '100%';
    tbl.attribute('border', '1');
   //body.appendChild(tbl)
