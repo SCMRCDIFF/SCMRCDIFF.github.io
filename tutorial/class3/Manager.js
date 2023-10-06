@@ -8,29 +8,31 @@ class layoutManager
       this.posY=y; 
       this.spacingX=20;
       this.spacingY=20;
+      this.addModule();
+      
       //this.eManager = new editorManager(0,0);
-      this.table = new TableUI(x+250,y+200);
+      this.table = new TableUI(x+250,y+this.Object[0].spacingY*3);
       this.indexDclick=false;
       this.FOV=[0.25, 0.25, 0.004];
       this.Matrix=[128, 128, 1];
       this.SeqName="randomSeq_KM";
       
       this.buttonGx = createButton('G+');
-    this.buttonGx.position(x+600,y+300);
-    this.buttonGx.id(0+"_"+1);
-    this.buttonGx.mousePressed(plusObject);
-    
-    this.buttonGy = createButton('Rf+');
-    this.buttonGy.position(x+600, y+340);
-    this.buttonGy.id(0+"_"+2);
-    this.buttonGy.mousePressed(plusObject);
+      this.buttonGx.position(x+600,y+this.Object[0].spacingY*3);
+      this.buttonGx.id(0+"_"+1);
+      this.buttonGx.mousePressed(plusObject);
+
+      this.buttonGy = createButton('Rf+');
+      this.buttonGy.position(x+600, y+this.Object[0].spacingY*3+40);
+      this.buttonGy.id(0+"_"+2);
+      this.buttonGy.mousePressed(plusObject);
+
+     //  this.buttonGy = createButton('Calculate');
+     // this.buttonGy.position(x+600, y+380);
+     // this.buttonGy.id(0+"_"+3);
+     // this.buttonGy.mousePressed(Calculate);  
       
-     this.buttonGy = createButton('Calculate');
-    this.buttonGy.position(x+600, y+380);
-    this.buttonGy.id(0+"_"+3);
-    this.buttonGy.mousePressed(Calculate);  
-      
-       this.addModule();
+      // this.addModule();
        this.generateTable();
       
     }
@@ -97,6 +99,7 @@ class layoutManager
     }
     show()
     {
+      this.Object[0].calculate();
       let Gap=this.posY;
       for(let k=0;k<this.Object.length;k++)
       {

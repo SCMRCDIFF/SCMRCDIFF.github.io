@@ -304,16 +304,16 @@ class RF extends Gradient {
   update()
   {
      let tmpx = 0;
-    this.posX=this.start;
+      this.posX=this.start;
       this.nPoint = this.duration / this.dT;
       for (let pt = 0; pt < this.nPoint; pt++) {
       tmpx = pt * this.dT;
       this.px[pt] = tmpx;
       tmpx = pt * this.dT - this.duration / 2;
       if (tmpx == 0) {
-        this.py[pt] = this.amp;
+        this.py[pt] = this.amp/2;
       } else {
-        this.py[pt] = (this.amp * sin(tmpx / 8)) / (tmpx / 8);
+        this.py[pt] = (this.amp/2 * sin(tmpx / 8)) / (tmpx / 8);
       }
     }
   }

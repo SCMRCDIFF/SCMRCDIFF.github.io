@@ -5,8 +5,8 @@ let Xoffset=0;
 let Yoffset=0;
 ctrl_key=true;
 function setup() {
-  createCanvas(2000, 800);
-  lManager = new layoutManager(0,250);
+  createCanvas(2000, 1000);
+  lManager = new layoutManager(0,150);
  // lManager.addLoop();
  // lManager.addLoop();
  

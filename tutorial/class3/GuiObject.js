@@ -370,16 +370,16 @@ class Module extends GUIObject {
     this.nameTag.hide();
     this.sortIdx=[];
     this.isDoubleSelected = true;
-    this.calc= new calc(x+this.spacingX,y+this.spacingY);
+    this.calc= new calc(x+this.spacingX,y+this.spacingY*2);
     // print(this.posX);
     let tmp = new Gradient(250, 0, 1, -50);
     this.SeqObj.push(tmp);
     tmp = new Gradient(750, 0, 1, -50);
     this.SeqObj.push(tmp);
-    tmp = new RF(0, 0, 1, -50);
+    tmp = new RF(0, 0, 1, -90);
     this.SeqObj.push(tmp);
     
-    tmp = new RF(500, 0, 1, -100);
+    tmp = new RF(500, 0, 1, -180);
     this.SeqObj.push(tmp);
     
     
@@ -530,7 +530,7 @@ class Module extends GUIObject {
     {
      lx=this.SeqObj[this.SeqObj.length-1].posX+this.SeqObj[this.SeqObj.length-1].duration;
     }*/
-    let tmp = new RF(lx, 0, 1, -50);
+    let tmp = new RF(lx, 0, 1, -180);
     this.SeqObj.push(tmp);
      this.update();
   }
