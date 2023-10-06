@@ -9,7 +9,7 @@ let DivInfo=[];
 function setup() 
 {
    createCanvas(1500, 1500);
-   let DivInfo = createDiv('Double click to add a cell');
+   let DivInfo = createDiv('Double click to add a cell / Click and Drag to move the cell');
    DivInfo.style('font-size', '16px');
    DivInfo.position(300, 150);
    let tmpObj =new Object2D(-50,-50,50,50);
