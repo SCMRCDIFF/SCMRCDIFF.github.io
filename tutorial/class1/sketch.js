@@ -34,7 +34,7 @@ function setup()
 
 function draw() {
   background(255);
-  image(img, 700, 100,300,300);
+  image(img, 900, 400,300,300);
   plt1.show();
 }
 // Convert saved Bubble data into Bubble Objects
